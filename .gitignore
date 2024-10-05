@@ -1,0 +1,6 @@
+*.pyc
+TODO.md
+*.tar.gz
+*.whl
+todo/*
+*.parquet
